@@ -95,3 +95,7 @@ Contributions are welcome. Please open an issue to discuss proposed changes befo
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+
+## Author 
+
+Anushka Choudhary❤️
